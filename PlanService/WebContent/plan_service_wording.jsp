@@ -4,7 +4,7 @@
 	//**Beware of other language wordings file**//
 	//******************************************//
 	String[][] dataDesc ={
-			{"管理數據用量","Manage Data Usage"},
+			{"管理shuju用量","Manage Data Usage"},
 			{"使用權限設定","Set User Rights"},
 			
 	};
