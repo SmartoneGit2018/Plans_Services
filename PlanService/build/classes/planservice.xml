@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+<!-- C1 -->
+	<Category>
+		<c_id>DataVoice</c_id>
+		<c_title_eng>Data Voice</c_title_eng>
+		<c_title_bss>Data Voice</c_title_bss>
+		<c_title_sss>Data Voice</c_title_sss>
+		<item>
+			<id>4gdataplan</id>
+			<title_eng>4G LTE Data Plan</title_eng>
+			<title_bss>4G LTE Data Plan</title_bss>
+			<title_sss>4G LTE Data Plan</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>D:\workspace\PlanService\WebContent\common\tc\4gdataplan_en.txt</path_tandc_eng>
+			<path_tandc_bss>D:\workspace\PlanService\WebContent\common\tc\4gdataplan_bss.txt</path_tandc_bss>
+			<path_tandc_sss>D:\workspace\PlanService\WebContent\common\tc\4gdataplan_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[Unlimited monthly local data with speed up to 3.6Mbps]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[Unlimited monthly local data with speed up to 3.6Mbps]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[Unlimited monthly local data with speed up to 3.6Mbps]]></desc_long1_sss>
+			<fee_eng>Monthly fee: $88</fee_eng>
+			<fee_sss>Monthly fee: $88</fee_sss>
+			<fee_bss>Monthly fee: $88</fee_bss>
+			<icon></icon>
+			<unsub>Y</unsub>
+			<reset>Y</reset>
+			<reset_msg>0</reset_msg>
+			<show_in_menu>Y</show_in_menu>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C19</type>
+				<type>C19A</type>
+			</show_type>
+			<show_detail>
+				<table_detail>Bill Date</table_detail>
+				<table_detail>Data Usage</table_detail>
+			</show_detail>
+		</item>
+		<item>
+			<id>3gdataplan</id>
+			<title_eng>3G Data Plan</title_eng>
+			<title_bss>3G Data Plan</title_bss>
+			<title_sss>3G Data Plan</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/4gdataplan_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/4gdataplan_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/4gdataplan_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[Unlimited monthly local data with speed up to 384Kbps]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[Unlimited monthly local data with speed up to 384Kbps]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[Unlimited monthly local data with speed up to 384Kbps]]></desc_long1_sss>
+			<fee_eng>Monthly fee: $88</fee_eng>
+			<fee_sss>Monthly fee: $88</fee_sss>
+			<fee_bss>Monthly fee: $88</fee_bss>
+			<icon></icon>
+			<unsub>Y</unsub>
+			<reset>N</reset>
+			<reset_msg>0</reset_msg>
+			<show_in_menu>Y</show_in_menu>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C19</type>
+				<type>C19A</type>
+			</show_type>
+			<show_detail>
+				<detail>Bill Date</detail>
+				<detail>Data Usage</detail>
+			</show_detail>
+		</item>
+		<item>
+			<id>2daydatapack</id>
+			<title_eng>4G LTE 2-Day Data Pack</title_eng>
+			<title_bss>4G LTE 2-Day Data Pack</title_bss>
+			<title_sss>4G LTE 2-Day Data Pack</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/2daydatapack_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/2daydatapack_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/2daydatapack_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[4G LTE unlimited local data in 2 days with speed up to 3.6Mbps]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[4G LTE unlimited local data in 2 days with speed up to 3.6Mbps]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[4G LTE unlimited local data in 2 days with speed up to 3.6Mbps]]></desc_long1_sss>
+			<fee_eng>Fee: $20 / 2 days</fee_eng>
+			<fee_sss>Fee: $20 / 2 days</fee_sss>
+			<fee_bss>Fee: $20 / 2 days</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C19</type>
+				<type>C19A</type>
+			</show_type>
+			<show_detail>
+				<detail>Expiry Date</detail>
+				<detail>Data Usage</detail>
+			</show_detail>
+		</item>
+		<item>
+			<id>speeddaypack</id>
+			<title_eng>Speed Up Day Pack (7.2Mbps) </title_eng>
+			<title_bss>Speed Up Day Pack (7.2Mbps) </title_bss>
+			<title_sss>Speed Up Day Pack (7.2Mbps) </title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/speeddaypack_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/speeddaypack_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/speeddaypack_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[Power up your data speed to 7.2Mbps on top of your existing Data Plan]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[Power up your data speed to 7.2Mbps on top of your existing Data Plan]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[Power up your data speed to 7.2Mbps on top of your existing Data Plan]]></desc_long1_sss>
+			<fee_eng>$5 / time (Original price: $8)</fee_eng>
+			<fee_sss>$5 / time (Original price: $8)</fee_sss>
+			<fee_bss>$5 / time (Original price: $8)</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C19</type>
+				<type>C19A</type>
+			</show_type>
+			<show_detail>
+				<detail>Expiry Date</detail>
+			</show_detail>
+		</item>
+		<item>
+			<id>resetdataspeed</id>
+			<title_eng>Reset Data Speed</title_eng>
+			<title_bss>Reset Data Speed</title_bss>
+			<title_sss>Reset Data Speed</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/speeddaypack_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/speeddaypack_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/speeddaypack_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[Monthly data fair usage limit has been reached. Your data speed will be kept at 128Kbps for the rest of the data plan billing period. Chance to reset data speed to 3.6Mbps.]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[Monthly data fair usage limit has been reached. Your data speed will be kept at 128Kbps for the rest of the data plan billing period. Chance to reset data speed to 3.6Mbps.]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[Monthly data fair usage limit has been reached. Your data speed will be kept at 128Kbps for the rest of the data plan billing period. Chance to reset data speed to 3.6Mbps.]]></desc_long1_sss>
+			<fee_eng>$18 / time</fee_eng>
+			<fee_sss>$18 / time</fee_sss>
+			<fee_bss>$18 / time</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C19</type>
+				<type>C19A</type>
+			</show_type>
+		</item>
+		<item>
+			<id>globeIDD</id>
+			<title_eng>Globe IDD Pass 7-Day</title_eng>
+			<title_bss>Globe IDD Pass 7-Day</title_bss>
+			<title_sss>Globe IDD Pass 7-Day</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/globeIDD_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/globeIDD_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/globeIDD_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[Entitled 1,000 IDD minutes to call 5 specific registered Philippines Globe / TM mobile numbers within 7 days]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[Entitled 1,000 IDD minutes to call 5 specific registered Philippines Globe / TM mobile numbers within 7 days]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[Entitled 1,000 IDD minutes to call 5 specific registered Philippines Globe / TM mobile numbers within 7 days]]></desc_long1_sss>
+			<fee_eng>$28 / 7 days</fee_eng>
+			<fee_sss>$28 / 7 days</fee_sss>
+			<fee_bss>$28 / 7 days</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C37</type>
+			</show_type>
+			<show_detail>
+				<detail>Expiry Date</detail>
+				<detail>Remaining minutes</detail>
+			</show_detail>
+		</item>
+		<item>
+			<id>callguard</id>
+			<title_eng>Call Guard Basic</title_eng>
+			<title_bss>Call Guard Basic</title_bss>
+			<title_sss>Call Guard Basic</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/callguard_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/callguard_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/callguard_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[Take control of incoming calls - block junk calls before reaching your phone, including local and overseas numbers]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[Take control of incoming calls - block junk calls before reaching your phone, including local and overseas numbers]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[Take control of incoming calls - block junk calls before reaching your phone, including local and overseas numbers]]></desc_long1_sss>
+			<fee_eng>$8 / month</fee_eng>
+			<fee_sss>$8 / month</fee_sss>
+			<fee_bss>$8 / month</fee_bss>
+			<icon></icon>
+			<unsub>Y</unsub>
+			<reset>N</reset>
+			<reset_msg>0</reset_msg>
+			<show_in_menu>Y</show_in_menu>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C37</type>
+				<type>C19</type>
+				<type>C19A</type>
+				<type>C37</type>
+				<type>C79</type>
+			</show_type>
+			<show_detail>
+				<detail>Bill Date</detail>
+			</show_detail>
+		</item>
+		<item>
+			<id>voicemail</id>
+			<title_eng>Voice mail</title_eng>
+			<title_bss>Voice mail</title_bss>
+			<title_sss>Voice mail</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/voicemail_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/voicemail_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/voicemail_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[A fully automated voice mail service ensures you never miss any important message]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[A fully automated voice mail service ensures you never miss any important message]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[A fully automated voice mail service ensures you never miss any important message]]></desc_long1_sss>
+			<fee_eng>$8 / month + local intra calling fee / min</fee_eng>
+			<fee_sss>$8 / month + local intra calling fee / min</fee_sss>
+			<fee_bss>$8 / month + local intra calling fee / min</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<reset_msg>0</reset_msg>
+			<show_in_menu>Y</show_in_menu>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C37</type>
+				<type>C19</type>
+				<type>C19A</type>
+				<type>C37</type>
+				<type>C79</type>
+			</show_type>
+			<show_detail>
+				<detail>Bill Date</detail>
+			</show_detail>
+		</item>
+	</Category>
+	<!-- C2 -->
+	<Category>
+		<c_id>fun</c_id>
+		<c_title_eng>Fun and Entertainment</c_title_eng>
+		<c_title_bss>Fun and Entertainment</c_title_bss>
+		<c_title_sss>Fun and Entertainment</c_title_sss>
+		<item>
+			<id>cloud</id>
+			<title_eng>Cloud storage</title_eng>
+			<title_bss>Cloud storage</title_bss>
+			<title_sss>Cloud storage</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/cloud_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/cloud_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/cloud_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[An online storage to consolidate all your photos from multiple memory cards and manage and view your every happy moment of life at a glance]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[An online storage to consolidate all your photos from multiple memory cards and manage and view your every happy moment of life at a glance]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[An online storage to consolidate all your photos from multiple memory cards and manage and view your every happy moment of life at a glance]]></desc_long1_sss>
+			<fee_eng>$8 for 20GB, $15 for 40GB, $22 for 60GB, $29 for 80GB, $35 for 100GB</fee_eng>
+			<fee_sss>$8 for 20GB, $15 for 40GB, $22 for 60GB, $29 for 80GB, $35 for 100GB</fee_sss>
+			<fee_bss>$8 for 20GB, $15 for 40GB, $22 for 60GB, $29 for 80GB, $35 for 100GB</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<android>http://202.140.111.239/bm_svp/?/wmc/jsp/regLogin/reg_login.jsp?svc=joox&amp;lang=1</android>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C37</type>
+				<type>C19</type>
+				<type>C19A</type>
+				<type>C37</type>
+				<type>C79</type>
+			</show_type>
+		</item>
+		<item>
+			<id>joox</id>
+			<title_eng>JOOX</title_eng>
+			<title_bss>JOOX</title_bss>
+			<title_sss>JOOX</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/joox_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/joox_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/joox_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[A popular music streaming app with millions of songs content with different genre, covering Western, Korean, Filipino, Cantopop]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[A popular music streaming app with millions of songs content with different genre, covering Western, Korean, Filipino, Cantopop]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[A popular music streaming app with millions of songs content with different genre, covering Western, Korean, Filipino, Cantopop]]></desc_long1_sss>
+			<fee_eng>$30 / month for 3G Data Plan or 4G LTE Data Plan (3.6Mbps) or SUPER 4G LTE Data Plan or 4G 8-Day Plan customers, $49 / month for NON 3G Data Plan or 4G LTE Data Plan (3.6Mbps)</fee_eng>
+			<fee_sss>$30 / month for 3G Data Plan or 4G LTE Data Plan (3.6Mbps) or SUPER 4G LTE Data Plan or 4G 8-Day Plan customers, $49 / month for NON 3G Data Plan or 4G LTE Data Plan (3.6Mbps)</fee_sss>
+			<fee_bss>$30 / month for 3G Data Plan or 4G LTE Data Plan (3.6Mbps) or SUPER 4G LTE Data Plan or 4G 8-Day Plan customers, $49 / month for NON 3G Data Plan or 4G LTE Data Plan (3.6Mbps)</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<iphone>http://202.140.111.239/bm_svp/?/wmc/jsp/regLogin/reg_login.jsp?svc=joox&amp;lang=1</iphone>
+			<android>http://202.140.111.239/bm_svp/?/wmc/jsp/regLogin/reg_login.jsp?svc=joox&amp;lang=1</android>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C37</type>
+				<type>C19</type>
+				<type>C19A</type>
+				<type>C37</type>
+				<type>C79</type>
+			</show_type>
+			<show_detail>
+				<detail>Bill Date</detail>
+			</show_detail>
+		</item>
+		<item>
+			<id>mox</id>
+			<title_eng>MOX</title_eng>
+			<title_bss>MOX</title_bss>
+			<title_sss>MOX</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/mox_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/mox_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/mox_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[Video on Demand App provides you the latest and good quality Indonesian movies online with ads-free]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[Video on Demand App provides you the latest and good quality Indonesian movies online with ads-free]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[Video on Demand App provides you the latest and good quality Indonesian movies online with ads-free]]></desc_long1_sss>
+			<fee_eng>$23 / 2 months - All movies under "Film Basic“ category</fee_eng>
+			<fee_sss>$23 / 2 months - All movies under "Film Basic“ category</fee_sss>
+			<fee_bss>$23 / 2 months - All movies under "Film Basic“ category</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<iphone></iphone>
+			<android></android>
+			<show_type>
+				<type>C19</type>
+				<type>C19A</type>
+				<type>C37</type>
+				<type>C79</type>
+			</show_type>
+			<show_detail>
+				<detail>Bill Date</detail>
+			</show_detail>
+		</item>
+	</Category>
+	<!-- C3 -->
+	<Category>
+		<c_id>roaming</c_id>
+		<c_title_eng>Roaming</c_title_eng>
+		<c_title_bss>Roaming</c_title_bss>
+		<c_title_sss>Roaming</c_title_sss>
+		<item>
+			<id>roamingdatapack</id>
+			<title_eng>Macau &amp; China Roaming Data Day Pack</title_eng>
+			<title_bss>Macau &amp; China Roaming Data Day Pack</title_bss>
+			<title_sss>Macau &amp; China Roaming Data Day Pack</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/roamingdatapack_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/roamingdatapack_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/roamingdatapack_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[Included 500MB data usage to go internet in Macau & China within 1 day]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[Included 500MB data usage to go internet in Macau & China within 1 day]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[Included 500MB data usage to go internet in Macau & China within 1 day]]></desc_long1_sss>
+			<fee_eng>$28 / day for 3G Data Plan or 4G LTE Data Plan (3.6Mbps) or SUPER 4G LTE Data Plan customers, $48 / day for NON 3G Data Plan or 4G LTE Data Plan (3.6Mbps)</fee_eng>
+			<fee_sss>$28 / day for 3G Data Plan or 4G LTE Data Plan (3.6Mbps) or SUPER 4G LTE Data Plan customers, $48 / day for NON 3G Data Plan or 4G LTE Data Plan (3.6Mbps)</fee_sss>
+			<fee_bss>$28 / day for 3G Data Plan or 4G LTE Data Plan (3.6Mbps) or SUPER 4G LTE Data Plan customers, $48 / day for NON 3G Data Plan or 4G LTE Data Plan (3.6Mbps)</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<iphone></iphone>
+			<android></android>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C37</type>
+				<type>C19</type>
+				<type>C19A</type>
+				<type>C37</type>
+			</show_type>
+			<show_detail>
+				<detail>Data Usage</detail>
+			</show_detail>
+		</item>
+		<item>
+			<id>roamingindonesia</id>
+			<title_eng>Indonesia Monthly Roaming Data Plan</title_eng>
+			<title_bss>Indonesia Monthly Roaming Data Plan</title_bss>
+			<title_sss>Indonesia Monthly Roaming Data Plan</title_sss>
+			<desc_short1_eng><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_eng>
+			<desc_short1_bss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_bss>
+			<desc_short1_sss><![CDATA[To learn about how our range of powerful plans and services can add value to you, please visit Plans & Services.]]></desc_short1_sss>
+			<path_tandc_eng>common/tc/roamingdatapack_en.txt</path_tandc_eng>
+			<path_tandc_bss>common/tc/roamingdatapack_bss.txt</path_tandc_bss>
+			<path_tandc_sss>common/tc/roamingdatapack_sss.txt</path_tandc_sss>
+			<desc_long1_eng><![CDATA[2GB data usage to go internet in Indonesia for 1 month]]></desc_long1_eng>
+			<desc_long1_bss><![CDATA[2GB data usage to go internet in Indonesia for 1 month]]></desc_long1_bss>
+			<desc_long1_sss><![CDATA[2GB data usage to go internet in Indonesia for 1 month]]></desc_long1_sss>
+			<fee_eng>$50</fee_eng>
+			<fee_sss>$50</fee_sss>
+			<fee_bss>$50</fee_bss>
+			<icon></icon>
+			<unsub>N</unsub>
+			<reset>N</reset>
+			<show_in_menu>Y</show_in_menu>
+			<iphone></iphone>
+			<android></android>
+			<show_type>
+				<type>C17</type>
+				<type>C17A</type>
+				<type>C37</type>
+				<type>C19</type>
+				<type>C19A</type>
+				<type>C37</type>
+			</show_type>
+			<show_detail>
+				<detail>Data Usage</detail>
+			</show_detail>
+		</item>
+	</Category>
+</service>
